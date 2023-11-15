@@ -1,0 +1,6 @@
+FastAPI
+pydantic
+lightgbm
+pandas
+uvicorn
+scikit-learn
